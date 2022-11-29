@@ -41,7 +41,7 @@ return [
     'facebook' => [
         'client_id' => env('FACEBOOK_CLIENT_ID'),
         'client_secret' => env('FACEBOOK_CLIENT_SECRET'),
-        'redirect' => 'https://localhost/Googletext/public/auth/facebook/callback'
+        'redirect' => 'https://localhost/facebook/callback'
     ]
 
 ];
